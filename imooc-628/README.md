@@ -5,6 +5,7 @@
 * [3-1 开发环境介绍：JS端环境+Native端环境](./03-01)
 * [3-2 安装node和watchman](./03-02)
 * [3-3 安装VSCode](./03-03)
+* [3-4 安装JDK和AndroidStudio](./03-04)
 
 ## Ref
 
