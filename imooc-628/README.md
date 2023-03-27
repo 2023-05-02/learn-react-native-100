@@ -9,6 +9,7 @@
 * [3-5 安装sdk platform和sdk tools](./03-05)
 * [3-6 配置环境变量](/03-06)
 * [3-7 AndroidStudio创建模拟器，及m1芯片创建方法](./03-07)
+* [3-8 使用cli命令创建ReactNative工程，并启动运行](./03-08)
 
 ## Ref
 
