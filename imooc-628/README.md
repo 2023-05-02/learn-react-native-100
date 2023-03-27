@@ -8,6 +8,7 @@
 * [3-4 安装JDK和AndroidStudio](./03-04)
 * [3-5 安装sdk platform和sdk tools](./03-05)
 * [3-6 配置环境变量](/03-06)
+* [3-7 AndroidStudio创建模拟器，及m1芯片创建方法](./03-07)
 
 ## Ref
 
