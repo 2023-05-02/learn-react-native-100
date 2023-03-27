@@ -7,6 +7,7 @@
 * [3-3 安装VSCode](./03-03)
 * [3-4 安装JDK和AndroidStudio](./03-04)
 * [3-5 安装sdk platform和sdk tools](./03-05)
+* [3-6 配置环境变量](/03-06)
 
 ## Ref
 
